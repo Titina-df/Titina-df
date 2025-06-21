@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Titina-df
-- 👀 I’m interested in Automation with Selenium+Java+Cucumber
-- 🌱 I’m currently learning Automation with Selenium+Java+Cucumber
+- 👀 I’m interested in Automation with Playwright+Javascript
+- 🌱 I’m currently learning Automation with Playwright+Javascript
 - 📫 How to reach me Titina-df  
 
 <!---
